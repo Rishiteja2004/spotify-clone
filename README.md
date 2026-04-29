@@ -14,9 +14,10 @@ A simple Spotify web UI clone built using HTML and CSS.
 * HTML5
 * CSS3
 
-## 📸 Screenshots
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/5bf8fea3-0675-490c-990f-c750cab01094" />
 
-(Add your project screenshots here)
+
+
 
 ## 📂 Folder Structure
 
